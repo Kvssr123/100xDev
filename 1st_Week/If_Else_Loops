@@ -1,0 +1,8 @@
+let firstname = "Sai Sandeep";
+let gender = "gentel man";
+if (gender == "gentel man") {
+console.log ("Hello Mr." + firstname);
+} 
+else {
+  console.log("Hello Ms." + firstname);
+}
