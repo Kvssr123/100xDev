@@ -1,6 +1,6 @@
 let firstname = "Sai Sandeep";
-let gender = "gentel man";
-if (gender == "gentel man") {
+let gender = "male";
+if (gender == "male") {
 console.log ("Hello Mr." + firstname);
 } 
 else {
